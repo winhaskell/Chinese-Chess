@@ -1,0 +1,12 @@
+The position of Chinese chess pieces at the beginning of a game. 
+The pieces on lines 6 and 3 are pawns (soldiers, or infantry), and those on lines 7 and 2 are cannons (artillery). 
+Lines 9 and 0 contain (from left to right) rook (chariot), knight (horse), elephant, 
+mandarin (advisor), king (general), mandarin, elephant, knight, and rook.
+
+
+
+
+
+
+
+
