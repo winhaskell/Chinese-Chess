@@ -1,0 +1,20 @@
+Chess Programming Wiki 
+https://www.chessprogramming.org/Main_Page
+
+The Chess Programming Wiki is a repository of information about programming computers to play chess. 
+Our goal is to provide a reference for every aspect of chess-programming, information about programmers, 
+researcher and engines. You'll find different ways to implement LMR and bitboard stuff like best magics 
+for most dense magic bitboard tables. For didactic purposes, the CPW-Engine has been developed by some wiki members. 
+You can start browsing using the left-hand navigation bar. All of our content is arranged hierarchically,
+so you can see every page by following just those links.  
+
+Principal Topics:
+Chess
+Programming
+Artificial Intelligence
+Knowledge
+Learning
+Testing
+Tuning
+User Interface
+Protocols
